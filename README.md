@@ -1,1 +1,2 @@
-# My_minor_projects
+# My_minor_projects :
+Some html and css practicing programs...
